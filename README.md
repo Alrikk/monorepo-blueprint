@@ -1,2 +1,2 @@
 # monorepo-blueprint
-Blueprint for creating a Node mono repo
+Blueprint for a Node mono repo 
